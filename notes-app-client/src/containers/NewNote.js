@@ -6,7 +6,6 @@ import "./NewNote.css";
 import { API } from 'aws-amplify'
 import { s3Upload } from "../libs/awsLib";
 
-
 export default class NewNote extends Component {
   constructor(props) {
     super(props);
