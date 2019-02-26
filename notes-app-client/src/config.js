@@ -1,6 +1,5 @@
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
-
   s3: {
     REGION: "us-east-2",
     BUCKET: "slappy-notes-app-upload"
